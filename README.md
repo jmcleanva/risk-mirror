@@ -20,3 +20,7 @@ Risk Mirror is intended as a lightweight analytical reference tool for exploring
 ## Notes
 
 This project uses only public datasets and is intended for informational and analytical reference purposes.
+
+## Preview
+
+![Risk Mirror Preview](risk-mirror-tab1.png)
