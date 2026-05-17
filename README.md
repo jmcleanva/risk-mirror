@@ -21,6 +21,42 @@ Risk Mirror is intended as a lightweight analytical reference tool for exploring
 
 This project uses only public datasets and is intended for informational and analytical reference purposes.
 
-## Preview
+## Screenshots
 
-![Risk Mirror Preview](risk-mirror-tab1.png)
+### Cover Page
+
+![Risk Mirror Cover Page](screenshots/risk-mirror-tab1-cover.png)
+
+*Risk Mirror opening page with simple navigation into the core report views.*
+
+---
+
+### BLS Labor Market View
+
+![BLS Labor Market View](screenshots/risk-mirror-tab2-bls-market-view.png)
+
+*Complete SOC-anchored BLS OEWS labor market reference table showing employment and wage percentile data.*
+
+---
+
+### Occupation Meaning
+
+![Occupation Meaning View](screenshots/risk-mirror-tab3-occupation-meaning.png)
+
+*O*NET occupation descriptions joined to BLS employment and wage measures for interpretive context.*
+
+---
+
+### Alternate Job Titles
+
+![Alternate Job Titles View](screenshots/risk-mirror-tab4-alternate-title-view.png)
+
+*O*NET alternate job titles mapped back to SOC occupations and BLS labor market measures.*
+
+---
+
+### Occupation Detail Drillthrough
+
+![Occupation Detail Drillthrough](screenshots/risk-mirror-tab5-drillthrough-detail.png)
+
+*Drillthrough detail page combining occupation title, O*NET description, and alternate titles for a selected SOC occupation.*
