@@ -43,7 +43,7 @@ This project uses only public datasets and is intended for informational and ana
 
 ![Occupation Meaning View](screenshots/risk-mirror-tab3-occupation meaning.png)
 
-*ONET occupation descriptions joined to BLS employment and wage measures for interpretive context.*
+*O-NET occupation descriptions joined to BLS employment and wage measures for interpretive context.*
 
 ---
 
@@ -51,7 +51,15 @@ This project uses only public datasets and is intended for informational and ana
 
 ![Alternate Job Titles View](screenshots/risk-mirror-tab4-alternate title view.png)
 
-*ONET alternate job titles mapped back to SOC occupations and BLS labor market measures.*
+*O-NET alternate job titles mapped back to SOC occupations and BLS labor market measures.*
+
+---
+
+### Occupation Detail Drillthrough
+
+![Occupation Detail Drillthrough](screenshots/risk-mirror-tab5-drill through occupation detail.png)
+
+*Drillthrough detail page combining occupation title, O-NET description, and alternate titles for a selected SOC occupation.*
 
 ---
 
