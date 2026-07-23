@@ -70,7 +70,7 @@ This project uses only publicly available datasets and is intended for informati
 
 ![Occupation Meaning View](screenshots/risk-mirror-tab3-occupation-meaning.png)
 
-*O*NET occupation descriptions presented alongside BLS labor market information for additional occupational context.*
+*O\*NET occupation descriptions presented alongside BLS labor market information for additional occupational context.*
 
 ---
 
@@ -78,7 +78,7 @@ This project uses only publicly available datasets and is intended for informati
 
 ![Alternate Job Titles View](screenshots/risk-mirror-tab4-alternate-job-titles.png)
 
-*O*NET alternate job titles associated with each SOC occupation.*
+*O\*NET alternate job titles associated with each SOC occupation.*
 
 ---
 
@@ -94,4 +94,4 @@ This project uses only publicly available datasets and is intended for informati
 
 ![Occupation Detail](screenshots/risk-mirror-tab6-occupation-detail.png)
 
-*Detailed reference page combining occupation title, O*NET description, and associated job titles for a selected occupation.*
+*Detailed reference page combining occupation title, O\*NET description, and associated job titles for a selected occupation.*
